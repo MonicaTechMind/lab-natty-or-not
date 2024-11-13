@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book Pedagogia Waldorf
 
 ## 📒 Descrição
 Criação de um E-book sobre pedagogia Waldorf
